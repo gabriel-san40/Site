@@ -7,7 +7,7 @@ import { ContactInfo } from '@/components/sections/contact/contact-info';
 export const metadata: Metadata = {
   title: 'Contato',
   description:
-    'Entre em contato com a San Automation. Estamos prontos para ajudar sua empresa com solucoes de IA conversacional.',
+    'Entre em contato com a San Automation. Estamos prontos para ajudar sua empresa com solucoes de IA humanizada.',
 };
 
 export default function ContatoPage() {
@@ -16,7 +16,7 @@ export default function ContatoPage() {
       <Container>
         <SectionHeading
           title="Fale Conosco"
-          subtitle="Estamos prontos para ajudar sua empresa a dar o proximo passo com IA conversacional."
+          subtitle="Estamos prontos para ajudar sua empresa a dar o proximo passo com IA humanizada."
           gradient
         />
 

@@ -36,7 +36,7 @@ A adocao de chatbots com IA nao e mais uma questao de "se", mas de "quando". Emp
     `.trim(),
     date: '2025-01-15',
     author: 'Gabriel Santos',
-    category: 'IA Conversacional',
+    category: 'IA Humanizada',
     readTime: '5 min de leitura',
   },
   {
@@ -79,13 +79,13 @@ O futuro do atendimento telefonico e inteligente, instantaneo e disponivel 24/7.
   },
   {
     slug: 'integracao-ia-crm-erp',
-    title: 'Integrando IA Conversacional com seu CRM e ERP',
+    title: 'Integrando IA Humanizada com seu CRM e ERP',
     excerpt:
       'Saiba como conectar agentes de IA aos seus sistemas existentes para um atendimento mais inteligente e eficiente.',
     content: `
 ## A Forca da Integracao
 
-Um agente de IA conversacional e poderoso por si so, mas quando integrado aos seus sistemas de CRM e ERP, ele se torna verdadeiramente transformador.
+Um agente de IA humanizado e poderoso por si so, mas quando integrado aos seus sistemas de CRM e ERP, ele se torna verdadeiramente transformador.
 
 ## Por que Integrar?
 

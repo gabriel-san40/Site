@@ -11,14 +11,14 @@ const values = [
     icon: Target,
     title: 'Missao',
     description:
-      'Transformar o atendimento ao cliente atraves de agentes de IA conversacional inteligentes, acessiveis e eficazes para empresas de todos os portes.',
+      'Transformar o atendimento ao cliente atraves de agentes de IA humanizados, inteligentes, acessiveis e eficazes para empresas de todos os portes.',
     glow: 'cyan' as const,
   },
   {
     icon: Eye,
     title: 'Visao',
     description:
-      'Ser referencia em IA conversacional no Brasil, impulsionando a revolucao do atendimento automatizado com tecnologia de classe mundial.',
+      'Ser referencia em IA humanizada no Brasil, impulsionando a revolucao do atendimento automatizado com tecnologia de classe mundial.',
     glow: 'purple' as const,
   },
   {

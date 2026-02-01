@@ -25,7 +25,7 @@ export function Hero() {
           className="inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/5 px-4 py-2 text-sm text-primary mb-8"
         >
           <Bot size={16} />
-          Agentes de IA Conversacional
+          Agentes de IA Humanizados
         </motion.div>
 
         {/* Heading */}

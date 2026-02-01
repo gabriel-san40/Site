@@ -23,7 +23,7 @@ export function ServicesHero() {
               </span>
             </h1>
             <p className="mt-6 text-lg text-foreground-muted md:text-xl">
-              Solucoes completas de IA conversacional para automatizar, escalar e
+              Solucoes completas de IA humanizada para automatizar, escalar e
               transformar o atendimento da sua empresa.
             </p>
           </div>

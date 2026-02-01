@@ -19,7 +19,7 @@ export function CompanyInfo() {
               </h1>
               <p className="mt-6 text-lg text-foreground-muted leading-relaxed">
                 Nascemos com a missao de democratizar o acesso a inteligencia artificial
-                conversacional. Acreditamos que toda empresa, independente do tamanho,
+                humanizada. Acreditamos que toda empresa, independente do tamanho,
                 merece ter um atendimento de excelencia — e a IA e o caminho para isso.
               </p>
               <p className="mt-4 text-lg text-foreground-muted leading-relaxed">

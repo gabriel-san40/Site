@@ -6,7 +6,7 @@ import { SITE_CONFIG } from '@/lib/constants';
 export const metadata: Metadata = {
   title: 'Termos de Servico',
   description:
-    'Termos de servico da San Automation. Leia os termos e condicoes de uso dos nossos servicos de IA conversacional.',
+    'Termos de servico da San Automation. Leia os termos e condicoes de uso dos nossos servicos de IA humanizada.',
 };
 
 export default function TermosDeServicoPage() {
@@ -44,14 +44,14 @@ export default function TermosDeServicoPage() {
             </h2>
             <p>
               A {SITE_CONFIG.name} oferece servicos de desenvolvimento, implementacao e
-              manutencao de agentes de inteligencia artificial conversacional, incluindo, mas
+              manutencao de agentes de inteligencia artificial humanizados, incluindo, mas
               nao se limitando a:
             </p>
             <ul className="list-disc pl-6 space-y-2 mt-3">
               <li>Chatbots inteligentes para atendimento ao cliente.</li>
               <li>Voicebots com reconhecimento e sintese de voz.</li>
               <li>Integracao de agentes de IA com sistemas existentes (CRM, ERP, e-commerce).</li>
-              <li>Automacao de processos por meio de IA conversacional.</li>
+              <li>Automacao de processos por meio de IA humanizada.</li>
               <li>Dashboards de analise e insights de atendimento.</li>
             </ul>
           </div>

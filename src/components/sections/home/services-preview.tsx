@@ -26,7 +26,7 @@ export function ServicesPreview() {
         <ScrollReveal>
           <SectionHeading
             title="Nossas Solucoes"
-            subtitle="Solucoes completas de IA conversacional para cada necessidade do seu negocio."
+            subtitle="Solucoes completas de IA humanizada para cada necessidade do seu negocio."
             gradient
           />
         </ScrollReveal>

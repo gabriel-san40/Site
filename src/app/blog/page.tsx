@@ -7,7 +7,7 @@ import { BlogCard } from '@/components/sections/blog/blog-card';
 export const metadata: Metadata = {
   title: 'Blog',
   description:
-    'Artigos, novidades e insights sobre IA conversacional, chatbots, automacao e tendencias em tecnologia.',
+    'Artigos, novidades e insights sobre IA humanizada, chatbots, automacao e tendencias em tecnologia.',
 };
 
 export default function BlogPage() {
@@ -16,7 +16,7 @@ export default function BlogPage() {
       <Container>
         <SectionHeading
           title="Blog"
-          subtitle="Artigos, insights e novidades sobre IA conversacional e automacao."
+          subtitle="Artigos, insights e novidades sobre IA humanizada e automacao."
           gradient
         />
 

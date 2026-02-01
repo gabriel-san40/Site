@@ -8,7 +8,7 @@ import { ServicesCTA } from '@/components/sections/services/services-cta';
 export const metadata: Metadata = {
   title: 'Servicos',
   description:
-    'Chatbots inteligentes, voicebots, integracoes e automacao com IA conversacional para transformar o atendimento da sua empresa.',
+    'Chatbots inteligentes, voicebots, integracoes e automacao com IA humanizada para transformar o atendimento da sua empresa.',
 };
 
 export default function ServicosPage() {

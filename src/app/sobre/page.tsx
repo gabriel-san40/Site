@@ -6,7 +6,7 @@ import { Team } from '@/components/sections/about/team';
 export const metadata: Metadata = {
   title: 'Sobre Nos',
   description:
-    'Conheca a San Automation: nossa missao, valores e a equipe por tras dos agentes de IA conversacional mais avancados do mercado.',
+    'Conheca a San Automation: nossa missao, valores e a equipe por tras dos agentes de IA humanizados mais avancados do mercado.',
 };
 
 export default function SobrePage() {

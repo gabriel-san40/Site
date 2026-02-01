@@ -7,13 +7,13 @@ import './globals.css';
 export const metadata: Metadata = {
   metadataBase: new URL('https://sanautomation.com.br'),
   title: {
-    default: 'San Automation | Agentes de IA Conversacional',
+    default: 'San Automation | Agentes de IA Humanizados',
     template: '%s | San Automation',
   },
   description:
-    'Transforme o atendimento da sua empresa com agentes de IA conversacional inteligentes. Chatbots, voicebots e automacao com inteligencia artificial.',
+    'Transforme o atendimento da sua empresa com agentes de IA humanizados. Chatbots, voicebots e automacao com inteligencia artificial.',
   keywords: [
-    'IA conversacional',
+    'IA humanizada',
     'chatbot',
     'voicebot',
     'automacao',

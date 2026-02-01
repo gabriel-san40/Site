@@ -24,7 +24,7 @@ export function Footer() {
               </span>
             </Link>
             <p className="text-sm text-foreground-muted leading-relaxed">
-              Transformando o atendimento ao cliente com agentes de IA conversacional
+              Transformando o atendimento ao cliente com agentes de IA humanizados,
               inteligentes e personalizados.
             </p>
           </div>

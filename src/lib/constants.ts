@@ -1,6 +1,6 @@
 export const SITE_CONFIG = {
   name: 'San Automation',
-  description: 'Agentes de IA Conversacional',
+  description: 'Agentes de IA Humanizados',
   url: 'https://sanautomation.com.br',
   email: 'gabrie.san@gmail.com',
   phone: '+55 (11) 99999-9999',
