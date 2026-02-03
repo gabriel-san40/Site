@@ -79,7 +79,7 @@ export function Hero() {
           className="mt-20 grid grid-cols-2 md:grid-cols-4 gap-8 max-w-3xl mx-auto"
         >
           {[
-            { value: '100+', label: 'Clientes Atendidos' },
+            { value: '99', label: 'Clientes Atendidos' },
             { value: '2M+', label: 'Conversas/Mes' },
             { value: '99.9%', label: 'Disponibilidade' },
             { value: '50+', label: 'Integracoes' },
