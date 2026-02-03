@@ -7,7 +7,7 @@ import { BlogCard } from '@/components/sections/blog/blog-card';
 export const metadata: Metadata = {
   title: 'Blog',
   description:
-    'Artigos, novidades e insights sobre IA humanizada, chatbots, automacao e tendencias em tecnologia.',
+    'Artigos, novidades e insights sobre IA humanizada, agentes de IA, automacao e tendencias em tecnologia.',
 };
 
 export default function BlogPage() {

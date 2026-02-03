@@ -20,7 +20,7 @@ export const testimonials: Testimonial[] = [
     role: 'Gerente de Marketing',
     company: 'E-Shop Digital',
     quote:
-      'Desde que implementamos os chatbots, nossa taxa de conversao aumentou 45%. Os agentes qualificam leads automaticamente e nunca perdem uma oportunidade.',
+      'Desde que implementamos os agentes de IA, nossa taxa de conversao aumentou 45%. Eles qualificam leads automaticamente e nunca perdem uma oportunidade.',
   },
   {
     name: 'Roberto Mendes',

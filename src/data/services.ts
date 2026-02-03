@@ -2,12 +2,12 @@ import type { Service } from '@/types';
 
 export const services: Service[] = [
   {
-    id: 'chatbots',
-    title: 'Chatbots Inteligentes',
+    id: 'agentes-ia',
+    title: 'Agentes de IA',
     shortDescription:
       'Atendimento automatizado por texto com IA avancada que entende e resolve.',
     fullDescription:
-      'Nossos chatbots utilizam processamento de linguagem natural avancado para oferecer atendimento humanizado e eficiente. Eles aprendem com cada interacao, melhorando continuamente a qualidade das respostas e a satisfacao dos seus clientes.',
+      'Nossos agentes de IA utilizam processamento de linguagem natural avancado para oferecer atendimento humanizado e eficiente. Eles aprendem com cada interacao, melhorando continuamente a qualidade das respostas e a satisfacao dos seus clientes.',
     features: [
       'Processamento de Linguagem Natural',
       'Aprendizado Continuo',

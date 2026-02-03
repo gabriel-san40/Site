@@ -48,7 +48,7 @@ export default function TermosDeServicoPage() {
               nao se limitando a:
             </p>
             <ul className="list-disc pl-6 space-y-2 mt-3">
-              <li>Chatbots inteligentes para atendimento ao cliente.</li>
+              <li>Agentes de IA inteligentes para atendimento ao cliente.</li>
               <li>Voicebots com reconhecimento e sintese de voz.</li>
               <li>Integracao de agentes de IA com sistemas existentes (CRM, ERP, e-commerce).</li>
               <li>Automacao de processos por meio de IA humanizada.</li>

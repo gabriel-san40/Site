@@ -11,10 +11,10 @@ export const metadata: Metadata = {
     template: '%s | San Automation',
   },
   description:
-    'Transforme o atendimento da sua empresa com agentes de IA humanizados. Chatbots, voicebots e automacao com inteligencia artificial.',
+    'Transforme o atendimento da sua empresa com agentes de IA humanizados. Automacao inteligente e voicebots com inteligencia artificial.',
   keywords: [
     'IA humanizada',
-    'chatbot',
+    'agentes de IA',
     'voicebot',
     'automacao',
     'inteligencia artificial',

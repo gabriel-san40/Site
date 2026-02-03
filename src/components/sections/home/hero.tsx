@@ -51,7 +51,7 @@ export function Hero() {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="mt-6 max-w-2xl mx-auto text-lg text-foreground-muted md:text-xl"
         >
-          Automatize o atendimento da sua empresa com chatbots e voicebots inteligentes.
+          Automatize o atendimento da sua empresa com agentes de IA e voicebots inteligentes.
           Mais eficiencia, menos custos e clientes mais satisfeitos.
         </motion.p>
 

@@ -2,29 +2,29 @@ import type { BlogPost } from '@/types';
 
 export const blogPosts: BlogPost[] = [
   {
-    slug: 'como-chatbots-ia-transformam-atendimento',
-    title: 'Como Chatbots com IA Estao Transformando o Atendimento ao Cliente',
+    slug: 'como-agentes-ia-transformam-atendimento',
+    title: 'Como Agentes de IA Estao Transformando o Atendimento ao Cliente',
     excerpt:
-      'Descubra como empresas estao utilizando chatbots inteligentes para oferecer atendimento 24/7 e aumentar a satisfacao dos clientes.',
+      'Descubra como empresas estao utilizando agentes de IA inteligentes para oferecer atendimento 24/7 e aumentar a satisfacao dos clientes.',
     content: `
 ## A Revolucao do Atendimento com IA
 
-O atendimento ao cliente esta passando por uma transformacao sem precedentes. Chatbots com inteligencia artificial nao sao mais simples robos que seguem scripts rigidos — eles entendem contexto, aprendem com cada interacao e oferecem respostas cada vez mais precisas.
+O atendimento ao cliente esta passando por uma transformacao sem precedentes. Agentes de IA nao sao mais simples robos que seguem scripts rigidos — eles entendem contexto, aprendem com cada interacao e oferecem respostas cada vez mais precisas.
 
-## Por que Chatbots com IA sao Diferentes?
+## Por que Agentes de IA sao Diferentes?
 
-Diferente dos chatbots tradicionais baseados em regras, os chatbots com IA utilizam Processamento de Linguagem Natural (PLN) para entender a intencao do usuario, mesmo quando a mensagem nao segue um padrao esperado.
+Diferente dos bots tradicionais baseados em regras, os agentes de IA utilizam Processamento de Linguagem Natural (PLN) para entender a intencao do usuario, mesmo quando a mensagem nao segue um padrao esperado.
 
 ### Principais vantagens:
 
-- **Entendimento contextual**: O chatbot entende o contexto da conversa e mantem coerencia ao longo do dialogo.
+- **Entendimento contextual**: O agente entende o contexto da conversa e mantem coerencia ao longo do dialogo.
 - **Aprendizado continuo**: Cada interacao e uma oportunidade de melhoria.
 - **Personalizacao**: Respostas adaptadas ao perfil e historico de cada cliente.
 - **Escalabilidade**: Atenda milhares de clientes simultaneamente sem perder qualidade.
 
 ## Resultados Reais
 
-Empresas que implementaram chatbots com IA reportam:
+Empresas que implementaram agentes de IA reportam:
 
 - Reducao de 60-80% no tempo de resposta
 - Aumento de 40% na satisfacao do cliente
@@ -32,7 +32,7 @@ Empresas que implementaram chatbots com IA reportam:
 
 ## Conclusao
 
-A adocao de chatbots com IA nao e mais uma questao de "se", mas de "quando". Empresas que adotam essa tecnologia agora estao construindo uma vantagem competitiva significativa.
+A adocao de agentes de IA nao e mais uma questao de "se", mas de "quando". Empresas que adotam essa tecnologia agora estao construindo uma vantagem competitiva significativa.
     `.trim(),
     date: '2025-01-15',
     author: 'Gabriel Santos',
@@ -112,7 +112,7 @@ Todas as integracoes utilizam criptografia de ponta a ponta, tokens de autentica
 
 ## Conclusao
 
-A integracao e o que transforma um chatbot em um verdadeiro assistente digital capaz de resolver problemas de ponta a ponta, sem que o cliente precise trocar de canal ou repetir informacoes.
+A integracao e o que transforma um agente de IA em um verdadeiro assistente digital capaz de resolver problemas de ponta a ponta, sem que o cliente precise trocar de canal ou repetir informacoes.
     `.trim(),
     date: '2024-12-20',
     author: 'Gabriel Santos',

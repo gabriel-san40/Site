@@ -4,7 +4,7 @@ import { SITE_CONFIG, NAV_ITEMS } from '@/lib/constants';
 import { Container } from '@/components/ui/container';
 
 const serviceLinks = [
-  { label: 'Chatbots Inteligentes', href: '/servicos' },
+  { label: 'Agentes de IA', href: '/servicos' },
   { label: 'Voicebots', href: '/servicos' },
   { label: 'Integracao com Sistemas', href: '/servicos' },
   { label: 'Automacao de Processos', href: '/servicos' },

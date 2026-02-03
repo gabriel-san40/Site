@@ -15,7 +15,7 @@ const initialState: ContactState = {
 
 const subjects = [
   { value: '', label: 'Selecione um assunto' },
-  { value: 'chatbot', label: 'Chatbot Inteligente' },
+  { value: 'agente-ia', label: 'Agente de IA' },
   { value: 'voicebot', label: 'Voicebot' },
   { value: 'integracao', label: 'Integracao com Sistemas' },
   { value: 'automacao', label: 'Automacao de Processos' },
