@@ -5,7 +5,7 @@ export const SITE_CONFIG = {
   email: 'gabriel.san@gmail.com',
   phone: '+55 (12) 99162-3499',
   whatsapp: 'https://wa.me/5512991623499',
-  address: 'Sao Paulo, SP - Brasil',
+  address: 'Taubaté - SP, Brasil',
   cnpj: '64.849.272/0001-43',
 };
 
