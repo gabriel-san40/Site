@@ -2,10 +2,11 @@ export const SITE_CONFIG = {
   name: 'San Automation',
   description: 'Agentes de IA Humanizados',
   url: 'https://sanautomation.com.br',
-  email: 'gabrie.san@gmail.com',
-  phone: '+55 (11) 99999-9999',
-  whatsapp: 'https://wa.me/5511999999999',
+  email: 'gabriel.san@gmail.com',
+  phone: '+55 (12) 99162-3499',
+  whatsapp: 'https://wa.me/5512991623499',
   address: 'Sao Paulo, SP - Brasil',
+  cnpj: '64.849.272/0001-43',
 };
 
 export const NAV_ITEMS = [
