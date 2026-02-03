@@ -7,11 +7,16 @@ services:
       - NODE_ENV=production
     networks:
       - san-net
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 40s
     deploy:
-      replicas: 1
+      replicas: 2  # Aumentei para 2 para garantir zero downtime real
       placement:
         constraints:
-
           - node.hostname == vmi3030097      
       restart_policy:
         condition: on-failure
@@ -21,6 +26,12 @@ services:
         parallelism: 1
         delay: 10s
         order: start-first
+        failure_action: rollback
+        monitor: 30s
+        max_failure_ratio: 0.3
+      rollback_config:
+        parallelism: 1
+        delay: 5s
       labels:
         - "traefik.enable=true"
         - "traefik.http.routers.san-site.rule=Host(`www.san-automation.com.br`)"
@@ -29,6 +40,10 @@ services:
         - "traefik.http.routers.san-site.service=san-site"
         - "traefik.http.services.san-site.loadbalancer.server.port=3000"
         - "traefik.http.services.san-site.loadbalancer.passHostHeader=true"
+        # Health check para o Traefik
+        - "traefik.http.services.san-site.loadbalancer.healthcheck.path=/"
+        - "traefik.http.services.san-site.loadbalancer.healthcheck.interval=10s"
+        - "traefik.http.services.san-site.loadbalancer.healthcheck.timeout=3s"
 
 networks:
   san-net:
