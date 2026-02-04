@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Bot, Mail, Phone, MapPin } from 'lucide-react';
+import { Bot, Mail, Phone, MapPin, Instagram, Facebook } from 'lucide-react';
 import { SITE_CONFIG, NAV_ITEMS } from '@/lib/constants';
 import { Container } from '@/components/ui/container';
 
@@ -86,6 +86,26 @@ export function Footer() {
                 {SITE_CONFIG.address}
               </li>
             </ul>
+            <div className="flex items-center gap-3 mt-4">
+              <a
+                href="https://www.instagram.com/san.automation"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-foreground-muted hover:text-primary transition-colors"
+                aria-label="Instagram"
+              >
+                <Instagram size={20} />
+              </a>
+              <a
+                href="https://www.facebook.com/san.automation"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-foreground-muted hover:text-primary transition-colors"
+                aria-label="Facebook"
+              >
+                <Facebook size={20} />
+              </a>
+            </div>
           </div>
         </div>
 
